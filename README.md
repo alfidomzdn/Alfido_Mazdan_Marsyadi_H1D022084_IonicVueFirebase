@@ -1,5 +1,5 @@
-
-![{43FF704B-0999-4A01-991F-F2C8F780CE22}](https://github.com/user-attachments/assets/11fab032-faa1-40bf-8ab5-1eecca12a0d2)**Login Page**
+![{43FF704B-0999-4A01-991F-F2C8F780CE22}](https://github.com/user-attachments/assets/11fab032-faa1-40bf-8ab5-1eecca12a0d2)
+**Login Page**
 Pada saat pertama kali mengakses aplikasi ini, akan muncul halaman seperti yang terlihat di atas. Kemudian, kita dapat mengklik tombol "SIGN IN WITH GOOGLE" untuk masuk ke akun.
 ![{7328B254-1F25-4855-99BA-0769351B01BE}](https://github.com/user-attachments/assets/17e9f70c-3e8c-48c4-9456-58941c76ddb0)
 Pilih akun yang sudah terdaftar dan klik "Lanjutkan" jika login berhasil kita akan masuk ke home page, jika login gagal, kita akan kembali ke halaman login.
