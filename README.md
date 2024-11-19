@@ -6,6 +6,7 @@ Pada saat pertama kali mengakses aplikasi ini, akan muncul halaman seperti yang 
 
 Pilih akun yang sudah terdaftar dan klik "Lanjutkan" jika login berhasil kita akan masuk ke home page, jika login gagal, kita akan kembali ke halaman login.
 ![{A1B79743-0E6C-4174-991C-0CC5ACBD6D79}](https://github.com/user-attachments/assets/bebd8aab-3153-442e-8294-b42212d0418d)
+
 **Home Page**
 
 Di bagian bawah terdapat navigasi dengan dua tab utama, yaitu Home (dengan ikon rumah berwarna biru menandakan sedang aktif) dan Profile (ikon orang berwarna abu-abu).
